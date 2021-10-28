@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mxx-kor
+- 👀 I’m interested in coffee
+- 🌱 I’m currently learning vue.js
+- 📫 How to reach me - minjae7728@gmail.com
