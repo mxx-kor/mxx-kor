@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Minjae Kim
 - 👀 I’m interested in coffee
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently learning React
 - 📫 How to reach me - minjae7728@gmail.com
 - 👨‍💻 Check out my blog - https://mxxcode.tistory.com/
